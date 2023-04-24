@@ -1,0 +1,7 @@
+com\greatlearning\tta\TtaApplication.class
+com\greatlearning\tta\service\impl\TicketServiceImpl.class
+com\greatlearning\tta\controller\WelcomeController.class
+com\greatlearning\tta\service\TicketService.class
+com\greatlearning\tta\entity\Ticket.class
+com\greatlearning\tta\controller\TicketController.class
+com\greatlearning\tta\repository\TicketRepository.class
